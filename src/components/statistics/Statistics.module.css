@@ -1,3 +1,11 @@
 .container {
+  display: grid;
+  margin-bottom: 30px;
+}
+.feedbackWrapper {
+  display: flex;
+}
+.statWrapper {
     display: grid;
+    grid-gap: 10px;
 }
